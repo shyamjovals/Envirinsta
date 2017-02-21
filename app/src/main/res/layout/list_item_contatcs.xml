@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:padding="2dp"
+    android:layout_margin="6dp"
+    android:background="#fff"
+    android:layout_height="120dp">
+
+    <ImageView
+        android:id="@+id/profile_pic"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:contentDescription="desc"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" />
+
+    <TextView
+        android:id="@+id/member_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/profile_pic"
+        android:paddingBottom="10dp"
+        android:text="txt"
+        android:textSize="18sp"
+        android:textStyle="normal|bold"
+        android:textColor="#111" />
+
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="txt"
+        android:textSize="10sp"
+        android:layout_alignBottom="@+id/profile_pic"
+        android:layout_toRightOf="@+id/profile_pic"
+        android:layout_toEndOf="@+id/profile_pic" />
+
+    <TextView
+        android:id="@+id/rank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="txt"
+        android:textSize="16sp"
+        android:textStyle="normal|bold"
+        android:textColor="#111"
+        android:layout_above="@+id/time"
+        android:layout_toRightOf="@+id/profile_pic"
+        android:layout_toEndOf="@+id/profile_pic" />
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="txt"
+        android:textSize="10sp"
+        android:textColor="#111"
+        android:layout_above="@+id/time"
+        android:layout_toRightOf="@+id/profile_pic"
+        android:layout_toEndOf="@+id/profile_pic" />
+
+</RelativeLayout>

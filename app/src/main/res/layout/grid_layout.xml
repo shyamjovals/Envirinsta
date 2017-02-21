@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:columnCount="2"
+                android:rowCount="2"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true">
+
+                <RelativeLayout android:layout_marginRight="6dp"
+                    android:layout_marginLeft="6.5dp"
+                    android:layout_marginTop="22dp"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:elevation="24dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:srcCompat="@drawable/academics"
+                        android:id="@+id/imageView" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginTop="22dp"
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:elevation="24dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:srcCompat="@drawable/admin"
+                        android:id="@+id/imageView2" />
+                </RelativeLayout>
+
+                <RelativeLayout android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:layout_marginLeft="6.5dp"
+                    android:layout_marginRight="6dp"
+                    android:elevation="24dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:srcCompat="@drawable/excur"
+                        android:id="@+id/imageView3" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:layout_marginRight="6dp"
+                    android:elevation="24dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:srcCompat="@drawable/others"
+                        android:id="@+id/imageView4" />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:layout_marginLeft="6.5dp"
+                    android:layout_marginTop="6dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:srcCompat="@drawable/timeline"
+                        android:id="@+id/imageView7" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:layout_marginTop="6dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:srcCompat="@drawable/reports"
+                        android:id="@+id/imageView8" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:layout_marginLeft="6.5dp"
+                    android:layout_marginRight="6dp"
+                    android:layout_marginTop="6dp"
+                    android:elevation="24dp"
+                    android:layout_marginBottom="6dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:srcCompat="@drawable/settings"
+                        android:id="@+id/imageView5" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:layout_marginTop="6dp"
+                    android:elevation="24dp"
+                    android:layout_marginBottom="6dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:srcCompat="@drawable/help"
+                        android:id="@+id/imageView6" />
+                </RelativeLayout>
+
+            </GridLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+
+
+</RelativeLayout>

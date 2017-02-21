@@ -1,0 +1,1126 @@
+[
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timeline1.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\timeline1.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_to_stop.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_play_to_stop.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_wrench.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\ic_action_wrench.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer_vector.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_drawer_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_animated.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon_animated.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\firebase.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\firebase.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_stop_vector.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_stop_vector.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_screen.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\login_screen.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\admin1.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\admin1.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_to_pause.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_play_to_pause.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_logout.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\ic_action_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\misc.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\misc.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\extras.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\extras.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_to_pause.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_play_to_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timeline.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\timeline.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timeline.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\timeline.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reports1.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\reports1.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shar.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\shar.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_vector.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_play_vector.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_ripple.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.armcha\\SpaceNavigationView\\1.4.1\\res\\drawable\\white_ripple.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause_to_play.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_pause_to_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_close_animated.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon_close_animated.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_logout.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\ic_action_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_stop_vector.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_stop_vector.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_close.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\firebase.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\firebase.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shar.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\shar.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timeline1.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\timeline1.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\near_me.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.armcha\\SpaceNavigationView\\1.4.1\\res\\drawable\\near_me.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_close_animated.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon_close_animated.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tree.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\tree.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause_vector.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_pause_vector.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_vector.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_arrow_vector.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_close.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon_close.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wrench.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\wrench.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_screen.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\login_screen.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timeline1.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\timeline1.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_ripple.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.armcha\\SpaceNavigationView\\1.4.1\\res\\drawable\\white_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause_to_play.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_pause_to_play.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_background.jpg",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\menu_background.jpg"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\academics.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\academics.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grass.jpg",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\grass.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\near_me.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.armcha\\SpaceNavigationView\\1.4.1\\res\\drawable\\near_me.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\near_me.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.armcha\\SpaceNavigationView\\1.4.1\\res\\drawable\\near_me.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\excur.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\excur.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause_vector.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_pause_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soul_logo.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\soul_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\extras.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\extras.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\excur.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\excur.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\admin.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\admin.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\admin1.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\admin1.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soul_logo.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\soul_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_ripple.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.armcha\\SpaceNavigationView\\1.4.1\\res\\drawable\\white_ripple.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause_to_play.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_pause_to_play.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer_to_arrow.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_drawer_to_arrow.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timeline.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\timeline.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\others.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\others.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wrench.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\wrench.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_background.jpg",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\menu_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_to_pause.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_play_to_pause.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_close.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reports.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\reports.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer_to_arrow.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_drawer_to_arrow.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\firebase.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\firebase.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause_vector.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_pause_vector.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reports.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\reports.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_wrench.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\ic_action_wrench.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer_to_arrow.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_drawer_to_arrow.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_to_drawer.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_arrow_to_drawer.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_background.jpg",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\menu_background.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reports1.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\reports1.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_stop_to_play.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_stop_to_play.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\misc.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\misc.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_logout.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\ic_action_logout.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\connected.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\connected.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_animated.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon_animated.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_shape_shadow.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\menu_shape_shadow.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_vector.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_arrow_vector.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\misc.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\misc.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\academics1.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\academics1.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\excur.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\excur.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_stop_vector.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_stop_vector.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\admin.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\admin.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer_vector.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_drawer_vector.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\files.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\files.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\others.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\others.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\others.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\others.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_stop_to_play.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_stop_to_play.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_shape_shadow.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\menu_shape_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_shape_shadow.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\menu_shape_shadow.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer_vector.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_drawer_vector.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\academics.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\academics.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_to_drawer.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_arrow_to_drawer.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_vector.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_play_vector.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_close_animated.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon_close_animated.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\files.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\files.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\academics.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\academics.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grass.jpg",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\grass.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\admin.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\admin.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_to_stop.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_play_to_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\extras.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\extras.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reports1.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\reports1.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\admin1.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\admin1.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_animated.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon_animated.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_to_stop.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_play_to_stop.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_vector.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_play_vector.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_stop_to_play.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_stop_to_play.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shar.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\shar.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grass.jpg",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\grass.jpg"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\connected.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\connected.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reports.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\reports.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\files.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\files.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\connected.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\connected.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\academics1.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\academics1.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_wrench.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\ic_action_wrench.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\academics1.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\academics1.png"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soul_logo.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\soul_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_to_drawer.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_arrow_to_drawer.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contatcs.png",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\src\\main\\res\\drawable\\contatcs.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wrench.png",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\wrench.png"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_vector.xml",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_arrow_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_screen.png",
+        "source": "C:\\Users\\SUBASH.M\\Desktop\\Envirinsta\\app\\src\\main\\res\\drawable\\login_screen.png"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.xml",
+        "source": "D:\\AndroidProjects\\Envirinsta\\app\\src\\main\\res\\drawable\\splash.xml"
+    },
+    {
+        "merged": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\final envirinsta\\Envirinsta\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    }
+]

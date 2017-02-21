@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bluepanther.jiljungjuk.widgets.MetaballMenu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/metaball_menu"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:padding="10dp"
+    android:orientation="horizontal"
+    android:layout_gravity="center"
+    app:backgroundColor="#FF37474F"
+    app:metaballColor="@android:color/white"
+    app:backgroundShapeRadius="30dp"
+    app:needsElevation="true"
+    android:layout_width="wrap_content">
+    <!--app:backgroundColor="@android:color/holo_purple"-->
+    <!--app:metaballColor="@android:color/white"-->
+    <bluepanther.jiljungjuk.widgets.MetaballMenuImageView
+        android:id="@+id/menuitem1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="10dp"
+        app:defaultImage="@drawable/ic_action_text"
+        app:selectedImage="@drawable/ic_action_text_b"/>
+
+    <bluepanther.jiljungjuk.widgets.MetaballMenuImageView
+        android:id="@+id/menuitem2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="10dp"
+        app:defaultImage="@drawable/ic_action_image"
+        app:selectedImage="@drawable/ic_action_image_b"
+        />
+
+    <bluepanther.jiljungjuk.widgets.MetaballMenuImageView
+        android:id="@+id/menuitem3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="10dp"
+        app:defaultImage="@drawable/ic_action_audio"
+        app:selectedImage="@drawable/ic_action_audio_b"
+        />
+
+    <bluepanther.jiljungjuk.widgets.MetaballMenuImageView
+        android:id="@+id/menuitem4"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="10dp"
+        app:defaultImage="@drawable/ic_action_video"
+        app:selectedImage="@drawable/ic_action_video_b"/>
+
+    <bluepanther.jiljungjuk.widgets.MetaballMenuImageView
+        android:id="@+id/menuitem5"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="10dp"
+        app:defaultImage="@drawable/ic_action_files"
+        app:selectedImage="@drawable/ic_action_files_b"/>
+
+</bluepanther.jiljungjuk.widgets.MetaballMenu>

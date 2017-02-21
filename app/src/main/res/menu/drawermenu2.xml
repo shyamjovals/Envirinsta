@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_registration"
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="Registration" />
+        <item
+            android:id="@+id/nav_feepayment"
+            android:icon="@drawable/ic_action_fee"
+            android:title="Fee Payment" />
+        <item
+            android:id="@+id/nav_reminders"
+            android:icon="@android:drawable/ic_menu_info_details"
+            android:title="Reminders" />
+        <item
+            android:id="@+id/nav_uniform"
+            android:icon="@drawable/ic_action_uniform"
+            android:title="Uniform" />
+        <item
+            android:id="@+id/nav_shoes_accessories"
+            android:icon="@drawable/ic_action_shoes"
+            android:title="Shoes / Accessories" />
+        <item
+            android:id="@+id/nav_functions"
+            android:icon="@drawable/ic_action_func"
+            android:title="Functions" />
+        <item
+            android:id="@+id/nav_visitors_specialguests"
+            android:icon="@drawable/ic_action_guest"
+            android:title="Visitors / Special Guests" />
+        <item
+            android:id="@+id/nav_speciallectures"
+            android:icon="@drawable/ic_action_resources"
+            android:title="Special Lectures" />
+        <item
+            android:id="@+id/nav_certificates"
+            android:icon="@drawable/ic_action_cer"
+            android:title="Certificates" />
+        <item
+            android:id="@+id/nav_holidays"
+            android:icon="@drawable/ic_action_notes"
+            android:title="Holidays" />
+        <item
+            android:id="@+id/nav_scholarships"
+            android:icon="@drawable/ic_action_sch"
+            android:title="Scholarships" />
+        <item
+            android:id="@+id/nav_circulars"
+            android:icon="@drawable/ic_action_rec"
+            android:title="Circulars" />
+        <item
+            android:id="@+id/nav_noticeboard"
+            android:icon="@android:drawable/ic_menu_gallery"
+            android:title="Notice Board" />
+
+    </group>
+</menu>

@@ -1,0 +1,141 @@
+-injars 'G:\final envirinsta\Envirinsta\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'G:\final envirinsta\Envirinsta\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'G:\AndroidSDK\build-tools\23.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'G:\final envirinsta\Envirinsta\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class bluepanther.jiljungjuk.Splash.SplashActivity {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.WelcomeActivity {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.ResideActivity {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.RegisterCompaint_Grid.MainActivity {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.NGO_Grid.MainActivity2 {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.OtherActivities_Grid.MainActivity3 {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.Contacts_Grid.Contacts {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.Sign_In {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.Sign_Up {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.Timeline_Grid.Timeline {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.Notification {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.imgdisp {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.txtdisp {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.SpaceView {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.Out_Share {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.MyService {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.BootReciever {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.NGO {
+    <init>();
+}
+
+-keep class bluepanther.jiljungjuk.NGO_user_page {
+    <init>();
+}
+
+-keep class com.google.android.gms.common.api.GoogleApiActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdService {
+    <init>();
+}
+
+-keep class com.google.firebase.provider.FirebaseInitProvider {
+    <init>();
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

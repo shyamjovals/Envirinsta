@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_nss"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="NCC" />
+        <item
+            android:id="@+id/nav_ncc"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="NSS" />
+        <item
+            android:id="@+id/nav_clubactivities"
+            android:icon="@drawable/ic_action_club"
+            android:title="Club Activities" />
+        <item
+            android:id="@+id/nav_competitions"
+            android:icon="@drawable/ic_action_comp"
+            android:title="Competitions" />
+        <item
+            android:id="@+id/nav_prizes"
+            android:icon="@drawable/ic_action_prize"
+            android:title="Prizes / Awards" />
+        <item
+            android:id="@+id/nav_donations"
+            android:icon="@drawable/ic_action_don"
+            android:title="Donations" />
+        <item
+            android:id="@+id/nav_fieldtrips"
+            android:icon="@drawable/ic_action_trip"
+            android:title="Field Trips" />
+        <item
+            android:id="@+id/nav_tours"
+            android:icon="@drawable/ic_action_tour"
+            android:title="Tours" />
+
+    </group>
+</menu>

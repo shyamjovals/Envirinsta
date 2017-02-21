@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#fff">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/l1"
+        android:layout_margin="10dp">
+
+        <include layout="@layout/menu_layout" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+
+
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="240dp"
+                    android:background="#fff"
+                    android:id="@+id/l2"
+                    android:layout_marginTop="5dp">
+
+                    <TextView
+                        android:text="GROUP"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView5"
+                        android:textStyle="normal|bold"
+                        android:textAlignment="viewStart"
+                        android:layout_margin="10dp"
+                        android:textSize="20sp"
+                        android:fontFamily="casual"
+                        android:textColor="@color/primary_dark" />
+
+                    <ListView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/listView"
+                        android:longClickable="true"
+                        android:nestedScrollingEnabled="true"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="240dp"
+                    android:layout_below="@+id/l2"
+                    android:background="#fff"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp">
+                    <TextView
+                        android:text="INDIVIDUAL"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView6"
+                        android:textStyle="normal|bold"
+                        android:textAlignment="viewStart"
+                        android:layout_margin="10dp"
+                        android:textSize="20sp"
+                        android:fontFamily="casual"
+                        android:textColor="@color/primary_dark" />
+
+                    <ListView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/listView2"
+                        android:longClickable="true"
+                        android:nestedScrollingEnabled="true"/>
+
+                </LinearLayout>
+
+            </RelativeLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+</RelativeLayout>

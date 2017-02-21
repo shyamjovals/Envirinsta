@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF37474F">
+
+    <!--<Button-->
+        <!--android:id="@+id/button_share"-->
+        <!--style="?android:textAppearanceSmall"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="@color/colorAccent"-->
+        <!--android:text="SHARE"-->
+        <!--android:textColor="@android:color/black"-->
+        <!--android:textStyle="bold"-->
+        <!--android:elevation="24dp"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentStart="true"-->
+        <!--android:layout_marginBottom="58dp"-->
+        <!--android:layout_marginLeft="20dp"-->
+        <!--android:layout_marginRight="20dp" />-->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:layout_margin="5dp"
+        android:background="#fff"
+        android:id="@+id/r1"
+        android:layout_height="70dp">
+
+        <TextView
+            android:text="Choose any category"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:id="@+id/textView"
+            android:textSize="18sp"
+            android:textStyle="normal|bold"
+            android:textAllCaps="true"
+            android:fontFamily="casual"
+            android:textColor="#111"
+            android:textAlignment="center"
+            android:layout_width="220dp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/r1"
+        android:layout_marginBottom="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginStart="5dp"
+        android:background="#fff">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/l2"
+            android:padding="10dp"
+            android:layout_marginTop="20dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/audchose"
+                android:src="@drawable/musicplayer"
+                android:layout_above="@+id/textView7"
+                android:layout_centerHorizontal="true" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/l2"
+            android:layout_marginTop="20dp"
+            android:id="@+id/l1">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/fstop"
+                android:src="@drawable/stop"
+                android:layout_above="@+id/textView3"
+                android:layout_alignLeft="@+id/audchose"
+                android:layout_alignStart="@+id/audchose"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/frecord"
+                android:src="@drawable/record"
+                android:layout_alignTop="@+id/fstop"
+                android:layout_toLeftOf="@+id/textView3"
+                android:layout_toStartOf="@+id/textView3"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/fplay"
+                android:src="@drawable/play"
+                android:layout_alignTop="@+id/fstop"
+                android:layout_toRightOf="@+id/textView3"
+                android:layout_toEndOf="@+id/textView3"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/l2"
+            android:layout_marginBottom="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="60dp"
+            android:descendantFocusability="beforeDescendants"
+            android:focusableInTouchMode="true">
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColorHint="#111"
+                android:layout_above="@+id/button_share"
+                android:layout_alignLeft="@+id/button_share"
+                android:layout_alignStart="@+id/button_share"
+                android:layout_alignRight="@+id/button_share"
+                android:layout_alignEnd="@+id/button_share">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:ems="10"
+                android:id="@+id/desc_audio"
+                android:layout_weight="1"
+                android:textColor="#111"
+                android:hint="Description" /></android.support.design.widget.TextInputLayout>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+    <!--<TextView-->
+        <!--android:text="Record"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_above="@+id/frecord"-->
+
+        <!--android:layout_marginBottom="14dp"-->
+        <!--android:id="@+id/textView7" />-->
+
+    <!--<TextView-->
+        <!--android:text="music player"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/textView6"-->
+        <!--android:layout_alignTop="@+id/audchose"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentStart="true" />-->
+
+    <!--<LinearLayout-->
+    <!--android:orientation="vertical"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+    <!--<include layout="@layout/space_view" />-->
+    <!--</LinearLayout>-->
+
+</RelativeLayout>

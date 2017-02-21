@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MetaballMenu">
+        <attr name="backgroundColor" format="color" />
+        <attr name="metaballColor" format="color" />
+        <attr name="backgroundShapeRadius" format="dimension" />
+        <attr name="needsElevation" format="boolean" />
+    </declare-styleable>
+
+
+    <declare-styleable name="MetaballMenuImageView">
+        <attr name="defaultImage" format="reference"/>
+        <attr name="selectedImage" format="reference"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="SpaceNavigationView">
+        <attr name="space_item_icon_size" format="dimension" />
+        <attr name="space_item_icon_only_size" format="dimension" />
+        <attr name="space_item_text_size" format="dimension" />
+        <attr name="space_background_color" format="color" />
+        <attr name="centre_button_color" format="color" />
+        <attr name="active_item_color" format="color" />
+        <attr name="inactive_item_color" format="color" />
+        <attr name="centre_button_icon" format="reference" />
+        <attr name="centre_button_icon_color" format="color" />
+    </declare-styleable>
+</resources>

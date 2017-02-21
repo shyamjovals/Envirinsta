@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_timetable"
+            android:icon="@android:drawable/ic_menu_today"
+            android:title="Roads" />
+        <item
+            android:id="@+id/nav_attendance"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="Transport" />
+        <item
+            android:id="@+id/nav_textbooks"
+            android:icon="@drawable/ic_action_books"
+            android:title="Water Lines" />
+        <item
+            android:id="@+id/nav_testschedule"
+            android:icon="@drawable/ic_action_esch"
+            android:title="Electricity"></item>
+        <item
+            android:id="@+id/nav_testmarks"
+            android:icon="@drawable/ic_action_marks"
+            android:title="Bank/ATM" />
+        <item
+            android:id="@+id/nav_questionpapers"
+            android:icon="@drawable/ic_action_ques"
+            android:title="Hospitals" />
+        <item
+            android:id="@+id/nav_resources"
+            android:icon="@drawable/ic_action_resources"
+            android:title="Politics" />
+        <item
+            android:id="@+id/nav_examschedule"
+            android:icon="@drawable/ic_action_esch"
+            android:title="Govt Offices" />
+        <item
+            android:id="@+id/nav_exammarks"
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="Sewage" />
+        <item
+            android:id="@+id/nav_assignments"
+            android:icon="@drawable/ic_action_notes"
+            android:title="General PWD" />
+        <item
+            android:id="@+id/nav_homework"
+            android:icon="@android:drawable/ic_menu_edit"
+            android:title="Others" />
+    </group>
+</menu>
